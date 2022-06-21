@@ -1,6 +1,6 @@
-# Printaro
+# Cool Shoes
 ```
-Cafe Menu App, with a frontend built in React & Redux and a backend built in Django API.
+Cool Shoes, with a frontend built in React & Redux and a backend built in Django API.
 ```
 Check out [FRONTEND LIVE DEMO](https://front-end-coolshoes.herokuapp.com/) here!!
 Check out [API LIVE DEMO](https://back-end-coolshoes.herokuapp.com/) here!!
